@@ -1,5 +1,6 @@
 # Act II: The AI Awakening - Complete AI Integration Guide
-![media](https://github.com/user-attachments/assets/b9f28de9-7aca-4b5b-9daa-8471a59c3c4f)
+<img src="https://github.com/user-attachments/assets/b9f28de9-7aca-4b5b-9daa-8471a59c3c4f" width="300" alt="Image">
+
 
 
 ```
